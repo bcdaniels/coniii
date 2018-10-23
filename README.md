@@ -1,4 +1,10 @@
-# Convenient Interface to Inverse Ising Authors: Edward D Lee, Bryan C Daniels
+```diff
+- This project has moved to [https://github.com/eltrompetero/coniii] and this fork is no longer maintained.
+```
+
+
+# Convenient Interface to Inverse Ising 
+Authors: Edward D Lee, Bryan C Daniels
 
 Python package for solving maximum entropy problems with a focus on the pairwise maximum
 entropy model, also known as the inverse Ising problem.
